@@ -1,5 +1,5 @@
 # Line-Tracking-Drone-for-Linux
-The automatic line-tracking drone is implemented with a trajectory-planning program that perceives the environment through a fixed camera, uses computer vision to interpret pixels and generate commands, and sends instructions to the drone through serial Bluetooth communication.
+The automatic line-tracking drone is implemented with a trajectory-planning program that perceives the environment through a fixed camera, uses computer vision to interpret pixels and generate commands, and sends instructions to the drone through serial Bluetooth communication to control the torque of different motors.
 
 
 ## Requirement
